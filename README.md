@@ -20,4 +20,3 @@
 ### My linkedIn:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-vargas-693484168/)
 
-![Snake animation](https://github.com/gvargasx/gvargasx/output/github-contribution-grid-snake.svg)
